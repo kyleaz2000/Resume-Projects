@@ -1,2 +1,2 @@
 # Resume-Projects
-Grouoing of projects to display skills
+Grouping of projects to display skills
